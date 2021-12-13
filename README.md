@@ -1,1 +1,3 @@
-# tocu-transparency-reporting
+# MakerDAO TOCU Transparency Reporting
+
+This repository will contain the monthly transparency reports of the core unit.
