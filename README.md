@@ -31,9 +31,9 @@
 |Travel budget per year (9 people)|0|0|15,000|15,000|15,750|
 |Conferences and education|0|0|4,500|4,500|4,500|
 |Hardware (optional for new hires, for tests, etc.)|0|0|0|0|5,000|
-|Gas Fees|0|0|0|0|-|
+|Gas Fees|500|500|500|1,500|-|
 |Deposit|85,000|0|0|85,000|-|
-|**Total**|**173,446**|**119,807**|**119,807**|**413,060**|**592,000**|
+|**Total**|**173,946**|**139,307**|**139,807**|**453,060**|**592,000**|
 
 ** Costs are included in the Compensation category
 *** Costs are included in the Cloud Infrastructure category
@@ -66,5 +66,5 @@ The Change column indicates any changes in the MKR vesting amounts compared to l
 
 |Wallet|3-months Estimate|Current Balance|Transfer|Multi-sig Address|
 |---------------:|---------:|---------:|-------:|-----------------:|
-|Permanent Team|451,560 DAI|1.00 DAI|451,559 DAI|0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6|
-|**Totals**|**451,560 DAI**|**1.00 DAI**|**451,559 DAI**||
+|Permanent Team|453,060 DAI|1.00 DAI|453,059 DAI|0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6|
+|**Totals**|**453,060 DAI**|**1.00 DAI**|**453,059 DAI**||
