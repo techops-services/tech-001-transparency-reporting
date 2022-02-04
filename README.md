@@ -18,7 +18,7 @@
 |Forecast|February 2022|March 2022|April 2022|3-months Total|Qly Budget Cap|
 |------------:|---------:|---------:|-------:|-----------------:|-------------:|
 |Compensation|47,929|79,290|79,290|206,509|218,000|
-|Other people costs (Benefits, Taxes, Fees)*|0**|0**|0**|0|54,500|
+|Other people costs (Benefits, Taxes, Fees)|0**|0**|0**|0|54,500|
 |Cloud Infrastructure|30,000|30,000|30,000|90,000|171,000|
 |VulcanizeDB + infrastructure|0***|0***|0***|0|51,250|
 |Tools (Pager Duty, Endtest, Runscope, CMC, etc.)|3,000|3,000|3,000|9,000|13,500|
@@ -28,7 +28,7 @@
 |Accounting|2,900|2,900|2,900|8,700|7,500|
 |Recruiting fees|0|19,000|0|19,000|15,000|
 |Legal consultancy|4,167|4,167|4,167|12,501|12,500|
-|Travel budget per year (9 people)|0|0|15,000|15,000|15,750|
+|Travel|0|0|15,000|15,000|15,750|
 |Conferences and education|0|0|4,500|4,500|4,500|
 |Hardware (optional for new hires, for tests, etc.)|0|0|0|0|5,000|
 |Gas Fees|500|500|500|1,500|-|
