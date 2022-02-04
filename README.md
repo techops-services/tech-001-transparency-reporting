@@ -35,6 +35,7 @@
 |**Total**|**88,496**|**138,857**|**139,357**|**366,710**|**592,000**|
 
 ** Costs are included in the Compensation category
+
 *** Costs are included in the Cloud Infrastructure category
 
 ## 3. MKR Vesting Overview
