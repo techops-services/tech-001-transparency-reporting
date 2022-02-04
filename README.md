@@ -19,7 +19,7 @@
 |------------:|---------:|---------:|-------:|-----------------:|-------------:|
 |Compensation|47,929|79,290|79,290|206,509|218,000|
 |Other people costs (Benefits, Taxes, Fees)*|0**|0**|0**|0|54,500|
-|Cloud Infrastructure|30,450|30,450|30,450|91,350|171,000|
+|Cloud Infrastructure|30,000|30,000|30,000|90,000|171,000|
 |VulcanizeDB + infrastructure|0***|0***|0***|0|51,250|
 |Tools (Pager Duty, Endtest, Runscope, CMC, etc.)|3,000|3,000|3,000|9,000|13,500|
 |TechOps R&D/POC|0|0|0|0|6,000|
@@ -32,8 +32,7 @@
 |Conferences and education|0|0|4,500|4,500|4,500|
 |Hardware (optional for new hires, for tests, etc.)|0|0|0|0|5,000|
 |Gas Fees|500|500|500|1,500|-|
-|Deposit|85,000|0|0|85,000|-|
-|**Total**|**173,946**|**139,307**|**139,807**|**453,060**|**592,000**|
+|**Total**|**88,496**|**138,857**|**139,357**|**366,710**|**592,000**|
 
 ** Costs are included in the Compensation category
 *** Costs are included in the Cloud Infrastructure category
@@ -66,5 +65,5 @@ The Change column indicates any changes in the MKR vesting amounts compared to l
 
 |Wallet|3-months Estimate|Current Balance|Transfer|Multi-sig Address|
 |---------------:|---------:|---------:|-------:|-----------------:|
-|Permanent Team|453,060 DAI|1.00 DAI|453,059 DAI|0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6|
-|**Totals**|**453,060 DAI**|**1.00 DAI**|**453,059 DAI**||
+|Permanent Team|366,710 DAI|1.00 DAI|366,709 DAI|0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6|
+|**Totals**|**366,710 DAI**|**1.00 DAI**|**366,709 DAI**||
