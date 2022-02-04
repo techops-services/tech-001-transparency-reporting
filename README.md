@@ -12,7 +12,7 @@
 
 |February 2022|March 2022|April 2022|3 months|Monthly Budget Cap|Qly Budget Cap|Annual Budget Cap + Buffer|
 |------------:|---------:|---------:|-------:|-----------------:|-------------:|-------------------------:|
-|173,446|119,807|119,807|119,807|207,200|621,600|2,486,400|
+|88,495|138,856|139,356|366,707|207,200|621,600|2,486,400|
 
 ### Breakdown
 |Forecast|February 2022|March 2022|April 2022|3-months Total|Qly Budget Cap|
