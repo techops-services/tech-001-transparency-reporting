@@ -47,7 +47,7 @@
 |December 8, 2023|128.65 MKR|0 MKR|+128.65 MKR|new hires|
 |June 8, 2024|128.65 MKR|0 MKR|+128.65 MKR|new hires|
 |December 8, 2024|128.65 MKR|0 MKR|+128.65 MKR|new hires|
-|**Total**|**771.92 MKR**|**0 MKR**|**+771.91 MKR**||
+|**Total**|**771.91 MKR**|**0 MKR**|**+771.91 MKR**||
 
 The Change column indicates any changes in the MKR vesting amounts compared to last month, with the Reason(s) column indicating why the amounts changed. Reasons may include: New hires, FTE changes, Promotions, or Terminations.
 
