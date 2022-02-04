@@ -32,7 +32,7 @@
 |Conferences and education|0|0|4,500|4,500|4,500|
 |Hardware (optional for new hires, for tests, etc.)|0|0|0|0|5,000|
 |Gas Fees|500|500|500|1,500|-|
-|**Total**|**88,496**|**138,857**|**139,357**|**366,710**|**592,000**|
+|**Total**|**88,495**|**138,856**|**139,356**|**366,707**|**592,000**|
 
 ** Costs are included in the Compensation category
 
