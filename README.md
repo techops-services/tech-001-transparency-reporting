@@ -66,5 +66,5 @@ The Change column indicates any changes in the MKR vesting amounts compared to l
 
 |Wallet|3-months Estimate|Current Balance|Transfer|Multi-sig Address|
 |---------------:|---------:|---------:|-------:|-----------------:|
-|Permanent Team|366,710 DAI|1.00 DAI|366,709 DAI|0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6|
-|**Totals**|**366,710 DAI**|**1.00 DAI**|**366,709 DAI**||
+|Permanent Team|366,707 DAI|1.00 DAI|366,706 DAI|0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6|
+|**Totals**|**366,707 DAI**|**1.00 DAI**|**366,706 DAI**||
