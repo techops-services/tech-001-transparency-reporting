@@ -27,7 +27,7 @@
 |Audits (Infrastructure, Security, etc.)|0|0|0|0|5,000|
 |Accounting|2,900|2,900|2,900|8,700|7,500|
 |Recruiting fees|0|19,000|0|19,000|15,000|
-|Legal consultancy|4,167|4,167|4,167|12,501|12,500|
+|Legal consultancy|4,166|4,166|4,166|12,498|12,500|
 |Travel|0|0|15,000|15,000|15,750|
 |Conferences and education|0|0|4,500|4,500|4,500|
 |Hardware (optional for new hires, for tests, etc.)|0|0|0|0|5,000|
