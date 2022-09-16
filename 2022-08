@@ -1,0 +1,90 @@
+# TechOps CU: August 2022 Budget Statement
+
+---
+
+## 1. Actuals -- August 2022
+
+|Budget category|Forecast|Actuals|Difference|Payments|Difference reason(s)|
+|------------:|---------:|---------:|-------:|-----------------:|-------------:|
+|-|-|-|-|-|-|
+|Compensation|74,343.20|74,343.20|0.00|-|-|
+|Cloud Infrastructure|20,000.00|19,931.31|68.69|-|AWS bills depend on usage that month|
+|Tools|2,300.00|4,410.90|-2,110.90|-|Some tools bills depend on usage that month|
+|Accounting|1,000.00|764.00|4,450.65|-|Sent more funds to Accountable than expected|
+|Legal consultancy|1,000.00|485.54|514.46|-|Expected to be charged more for legal services|
+|Gas Fees|100.00|0.00|100.00|-|No gas costs due to big gas investment the previous month|
+|Bank fees|100.00|114.65|-14.65|-|Expected lower bank fees|
+|Recruiting fees|60,000.00|61,200.00|-1,200.00|-|Expected lower recruiting fee|
+|**Total**|**158,743.20**|**164,936.25**|**-6,193.05**|**111,224.22**|**Difference between Actuals total and Payments total due to recruiting fees being paid directly, not using Accountable**|
+
+## 2. Budget Forecast -- August 2022
+
+### Overview
+
+|September 2022|October 2022|November 2022|3 months|Qly Budget Cap|Monthly Budget Cap|Annual Budget Cap + Buffer|
+|------------:|---------:|---------:|-------:|-----------------:|-------------:|-------------------------:|
+|178,374.20|105,174.20|105,174.20|388,722.60|621,600.00|207,200.00|2,486,400.00|
+
+### Breakdown
+|Forecast|September 2022|October 2022|November 2022|3-months Total|Qly Budget Cap|
+|------------:|---------:|---------:|-------:|-----------------:|-------------:|
+|Compensation|80,074.20|80,074.20|80,074.20|240,222.60|218,000.00|
+|Cloud Infrastructure|20,000.00|20,000.00|20,000.00|60,000.00|171,000.00|
+|Tools|3,000.00|3,000.00|3,000.00|9,000.00|13,500.00|
+|Accounting|11,200.00|1,000.00|1,000.00|13,200.00|7,500.00|
+|Recruiting fees|0.00|0.00|0.00|60,000.00|15,000.00|
+|Legal consultancy|1,000.00|1,000.00|1,000.00|3,000.00|12,500.00|
+|Travel|63,000.00|0,000.00|0,000.00|63,000.00|15,750.00|
+|Conferences and education|0.00|0.00|0.00|0.00|4,500.00|
+|Gas Fees|100.00|100.00|100.00|300.00|-|
+|**Total**|**178,374.20**|**105,174.20**|**105,174.20**|**388,722.60**|**453,250.00**|
+
+
+## 3. MKR Vesting Overview
+
+This overview is based on MIP40c3-SP54, TechOps' MKR Incentive Proposal - https://forum.makerdao.com/t/mip40c3-sp54-techops-core-unit-mkr-budget
+
+|Vesting Date|Original|Previous month|Corrected |Change|Reason(s)|
+|---------------:|---------:|---------:|-------:|-----------------:|
+|December 8, 2022|257.31 MKR|257.31 MKR|307.99 MKR|50.68 MKR|Due to correction exercise|
+|April 01, 2023|0.00 MKR|67.96 MKR|71.26 MKR|3.30 MKR|Due to correction exercise|
+|June 8, 2023|128.65 MKR|128.65 MKR|183.79 MKR|55.14 MKR|Due to correction exercise and new joiners|
+|August 01, 2023, 2023|0.00 MKR|33.98 MKR|91.72 MKR|57.74 MKR|Due to repricing exercise aand new joiners|
+|December 8, 2023|128.65 MKR|128.65 MKR|183.79 MKR|55.14 MKR|Due to correction exercise and new joiners|
+|April 01, 2024|0.00 MKR|33.98 MKR|48.55 MKR|14.57 MKR|Due to correction exercise and new joiners|
+|August 01, 2024|128.65 MKR|128.65 MKR|61.50 MKR|-67.15 MKR|Due to correction exercise and new joiners|
+|June 8, 2024|0.00 MKR|33.98 MKR MKR|183.79 MKR|149.81 MKR|Due to correction exercise and new joiners|
+|October 01, 2024|128.65 MKR|128.65 MKR|48.55 MKR|-80.11 MKR|Due to correction exercise and new joiners|
+|February 01, 2025|0.00 MKR|33.98 MKR|61.50 MKR|27.52 MKR|Due to correction exercise and new joiners|
+|**Total**|**771.91 MKR**|**975.79 MKR**|**1,242.45 MKR**|**266.66 MKR**|
+
+MKR Budget Cap 2,058.15.
+
+The Change column indicates any changes in the MKR vesting amounts compared to last month, with the Reason(s) column indicating why the amounts changed. Reasons may include: FTE changes, Promotions, or Terminations.
+
+### FTE
+
+|Team members|Headcount|FTE (Full-Time Equivalent)|
+|---------------:|---------:|---------:|
+|Facilitator/DevOps Engineer|2|0.8|
+|DevOps Engineer|3|0.8|
+|DevOps Engineer|2|0.5|
+|Operations Consultant|1|0.2|
+|PM|1|0.5|
+|**Total**|**9**|**5.7**|
+
+## 4. Transfers
+
+### DAI Transfers -- August 2022
+
+|Techops Operational Wallet|3-months Estimate|Current Balance|Transfer (difference)|Multi-sig Address|
+|------------------------------:|---------:|---------:|-------:|:-----------------|
+||388,722.60|95,729.61|-292,992.99|https://gnosis-safe.io/app/eth:0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6/balances|
+|**Total**|**388,722.60**|**95,729.61**|**-292,992.99**||
+
+
+|Techops Auditor Wallet|Amount|Current Balance|Transfer to Op Wallet|Multi-sig Address|
+|------------------------------:|---------:|---------:|-------:|:-----------------|
+|First 3 months budget from the protocol|1,069,250.00|187,513.96|881,737.04|https://gnosis-safe.io/app/eth:0x2dC0420A736D1F40893B9481D8968E4D7424bC0B/balances|
+|Test 1 DAI|1.00|-|-||
+|**Total**|**1,069,251.00**|**187,513.96**|**881,737.04**|
